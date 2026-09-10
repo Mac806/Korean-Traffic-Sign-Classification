@@ -1,0 +1,13 @@
+# Packages imported by the submitted notebook, plus Jupyter for viewing.
+# Unpinned inventory only: the original TensorFlow/CUDA environment was not exported.
+# Read docs/experiment-notes.md before attempting to run the experiments.
+tensorflow
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+Pillow
+h5py
+jupyterlab
